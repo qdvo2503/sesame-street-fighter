@@ -16,7 +16,7 @@ This is the source code for Sesame Street Fighter 2-player game that combine Ses
 
 # Local development
 
-- Install node / npm
+- [Install node / npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - [Install nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 - In the project directory:
     ```terminal
