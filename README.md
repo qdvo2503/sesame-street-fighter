@@ -14,7 +14,7 @@ This is the source code for Sesame Street Fighter 2-player game that combine Ses
 - Babel & Webpack
 - npm & nvm
 
-## Local development
+## Local Development
 
 - [Install node / npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - [Install nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
